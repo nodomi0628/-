@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T03:55:33.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="UktyyMPgQDTXNWcG53uQ" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T03:55:47.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="ejUdbrLZH1Fy3IkMphEg" version="13.0.1" type="github">
   <diagram id="unoEr302flRr3zGfKPYw" name="演習課題1">
     <mxGraphModel dx="1076" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P3zufAMFnLzX4-DD2EzV-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="297" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
